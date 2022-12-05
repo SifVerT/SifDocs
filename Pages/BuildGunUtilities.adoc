@@ -1,0 +1,26 @@
+= Build Gun Utilities
+Author Name <author@email.org>
+v2.0, 2019-03-22
+
+This mod is used to enhance the functionality of the Build Gun.
+
+*Note*: Work In Progress - These Docs are under construction
+
+== User Manual
+
+==== Relative Position (Relative Pos)
+
+- When spawning a building blueprint either using the Hotbar or Build Gun menu the Relative Position window will show the coordinates compared to where you originally spawned it.
+- This feature was added in order to measure the off-set where the player currently points the Build Gun to more easily, for example, place a buiding exactly 2 meters to the right.
+- And this is far more useful than seeing the definite coordinates of the Build Gun pointer, although the player can view the Build Gun's aim location on the left-hand side.
+
+==== Remove Terrain Assets
+
+*Warning*: This feature is powerful and might cause terrain glitches, an example is floating grass since this is something BGU cannot delete (at least not yet). Make sure you have an up-to-date save game. The changes are only permanent when the file is overwritten.
+
+- Make sure that you have toggled on *'Cheat Mode'* in the Mod Config page (main menu).
+- While in Dismantle Mode hold down *Shift* while firing the Build Gun as normal and there will be a short delay while you can still abort.
+
+Anything deleted in the game world can be restored in the Mod Config (Main Menu), but beware because anything you ever deleted will return on next save game load and you might need to delete them again.
+
+Note: The mod might get an improved handling of individually deleted assets eventually as this is technically possible, however I have performance always on my mind.
