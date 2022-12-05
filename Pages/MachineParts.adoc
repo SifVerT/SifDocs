@@ -1,0 +1,13 @@
+= Machine Parts
+
+What is 'Machine Parts'?
+
+Machine Parts has been around accompanying Difficulty Tuner for some time and was originally designed to accommodate gameplay when player chooses to disable the Workbench or when the cost of construction is set to very high in order to find a reasonable way to place the first Constructors. The player is given custom items called 'Machine Parts' which lets them use these as materials to build Constructors, Assemblers and Manufacturer using special recipes unlocked at the HUB, although the Constructor recipe is always unlocked by default on game start. It is similar to 'Packaged Machines'.
+
+Why was the 'Machine Parts' feature made?
+
+Without the Machine Parts feature it is impossible to progress with a disabled Workbench, so this was a solution to accommodate this kind of gameplay. It was something brainstormed together with the community and this was the solution. Option two would've been removing the uncraftable items from the recipes, but that would make the original recipes unbalanced.
+
+What can you build using the Machine Parts?
+
+With 'Machine Parts' you can build six Constructors, two Assemblers or one Manufacturer, or a combination. After that you have to unlock the "real recipe". This is intended behavior in order to keep the game balanced.
