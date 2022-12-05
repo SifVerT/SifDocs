@@ -1,6 +1,7 @@
 = Build Gun Utilities
-Author Name <author@email.org>
-v2.0, 2019-03-22
+SifVerT <hgg0430@hotmail.com>
+v0.1, 2022-12-06
+:toc:
 
 This mod is used to enhance the functionality of the Build Gun.
 
