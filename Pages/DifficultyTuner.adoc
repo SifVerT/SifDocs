@@ -1,3 +1,5 @@
 = Difficulty Tuner
 
+These pages are mostly there due to FAQs when people wonder what things are for.
+
 xref:MachineParts.adoc[Machine Parts]
