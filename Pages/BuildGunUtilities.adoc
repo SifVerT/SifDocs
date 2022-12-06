@@ -1,4 +1,4 @@
-= Build Gun Utilities
+= Build Gun Utilities(TM)
 SifVerT <hgg0430@hotmail.com>
 v0.1, 2022-12-06
 :toc:
@@ -17,11 +17,9 @@ This mod is used to enhance the functionality of the Build Gun.
 
 ==== Remove Terrain Assets
 
-*Warning*: This feature is powerful and might cause terrain glitches, an example is floating grass since this is something BGU cannot delete (at least not yet). Make sure you have an up-to-date save game. The changes are only permanent when the file is overwritten.
+WARNING: This feature is powerful and might cause terrain glitches, an example is floating grass since this is something BGU cannot delete (at least not yet). Make sure you have an up-to-date save game. The changes are only permanent when the file is overwritten.
 
-- Make sure that you have toggled on *'Cheat Mode'* in the Mod Config page (main menu).
-- While in Dismantle Mode hold down *Shift* while firing the Build Gun as normal and there will be a short delay while you can still abort.
+. Make sure that you have toggled on *'Cheat Mode'* in the Mod Config page (main menu).
+. While in Dismantle Mode hold down *Shift* while firing the Build Gun as normal and there will be a short delay while you can still abort.
 
-Anything deleted in the game world can be restored in the Mod Config (Main Menu), but beware because anything you ever deleted will return on next save game load and you might need to delete them again.
-
-Note: The mod might get an improved handling of individually deleted assets eventually as this is technically possible, however I have performance always on my mind.
+Anything deleted in the game world can be restored in the Mod Config (Main Menu), but beware because anything you ever deleted will return on next save game load.footnote:[The mod might get an improved handling of individually deleted assets eventually as this is technically possible, however I have performance always on my mind.] and you might need to delete them again.
