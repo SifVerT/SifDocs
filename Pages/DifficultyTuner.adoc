@@ -1,5 +1,15 @@
 = Difficulty Tuner
 
-These pages are mostly there due to FAQs when people wonder what things are for.
+=== Features
+
+==== Slug Respawn
+
+Random respawn for all slugs in the game world, they are no longer permanently gone when picked up but respawn on a timer between 7 to 30 in-game day after being picked up.
+
+==== Blade Runners recipe removal
+
+The MAM research for Blade Runners is still there but it is no longer available at the Workshop.
+
+==== Machine Parts
 
 xref:MachineParts.adoc[Machine Parts]
