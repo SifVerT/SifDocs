@@ -2,6 +2,10 @@
 
 === Features
 
+==== Control Workbench Behavior
+
+Set the speed of the workbench or disable it entirely. In order to make a save game entirely workbench-free so-called xref:MachineParts.adoc[Machine Parts] got implemented which allows the player to make initial Constructors, Assemblers, and a Manufacturer, without having access to a Workbench; 6 Constructors, 2 Assemblers or 1 Manufacturer (or a combination that works).
+
 ==== Phase 1 Tractor Unlock
 
 Instead of reaching Phase 2 the player can now unlock the milestone in Phase 1, something which might seem more balanced and also helps if the player uses Difficulty Tuner in order to make the game more challenging as a good wheeled logistics more or less becomes mandatory.
