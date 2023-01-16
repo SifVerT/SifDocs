@@ -2,6 +2,10 @@
 
 === Features
 
+==== Phase 1 Tractor Unlock
+
+Instead of reaching Phase 2 the player can now unlock the milestone in Phase 1, something which might seem more balanced and also helps if the player uses Difficulty Tuner in order to make the game more challenging as a good wheeled logistics more or less becomes mandatory.
+
 ==== Pre-unlocked Foundations and Logistics
 
 Player starts with Base Building and Logistics milestones already unlocked.
