@@ -2,6 +2,10 @@
 
 === Features
 
+==== Pre-unlocked Foundations and Logistics
+
+Player starts with Base Building and Logistics milestones already unlocked.
+
 ==== Slug Respawn
 
 Random respawn for all slugs in the game world, they are no longer permanently gone when picked up but respawn on a timer between 7 to 30 in-game day after being picked up.
