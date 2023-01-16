@@ -34,4 +34,4 @@ Shift-Delete will mark things within the sphere for dismantle. You can repeatedl
 
 Ctrl-Delete will change the radius of the sphere in incremental steps between 8 m to 128 m. This is all done in the Build Gun's Dismantle interface, the feature is not available elsewhere.
 
-WARNING: Selecting an enormous amount of actors will cause a momentary lag and could potentially crash someone's computer. In multiplayer this could potentially cause a client to drop out of the game due to a buffer overflow.
+WARNING: Selecting and dismantling an enormous amount of actors will cause a momentary lag and could potentially crash someone's computer. In multiplayer this could potentially cause a client to drop out of the game due to a buffer overflow.
