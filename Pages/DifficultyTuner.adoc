@@ -5,11 +5,15 @@ v0.1, 2022-12-06
 
 == Features
 
+=== Build Time
+
+Set if the feature is enabled, what is affected (two choices are available right now: all or "anti-lazy") and the time to complete construction. The building is completely unavailable when being built and the player is met by 'This building is under construction' widget if opening the building's UI.
+
 === Recipe Production output and Ingredient
 
 Set how many items are needed as ingredients and/or the productivity per recipe.
 
-WARNING: Setting these values too high will prevent the machine from producing anything because the stack limit is less than the expected output.
+WARNING: Setting these values too high will prevent machines from producing anything because the stack limit is less than the expected output.
 
 === Fuel Energy Values
 
