@@ -23,3 +23,15 @@ WARNING: This feature is powerful and might cause terrain glitches, an example i
 . While in Dismantle Mode hold down *Shift* while firing the Build Gun as normal and there will be a short delay while you can still abort.
 
 Anything deleted in the game world can be restored in the Mod Config (Main Menu), but beware because anything you ever deleted will return on next save game load.footnote:[The mod might get an improved handling of individually deleted assets eventually as this is technically possible, however I have performance always on my mind.] and you might need to delete them again.
+
+==== Mass Dismantle
+
+Mass Dismantle cannot remove foundations, walls, beams etc right now. A solution is needed for those Abstract Instance Meshes used for those actors.
+
+Use Mass Dismantle by holding the (default) Delete key to spawn a sphere showing the area of effect.
+
+Shift-Delete will mark things within the sphere for dismantle. You can repeatedly select more things by moving the sphere around while pushing Shift-Delete.
+
+Ctrl-Delete will change the radius of the sphere in incremental steps between 8 m to 128 m. This is all done in the Build Gun's Dismantle interface, the feature is not available elsewhere.
+
+WARNING: Selecting an enormous amount of actors will cause a momentary lag and could potentially crash someone's computer. In multiplayer this could potentially cause a client to drop out of the game due to a buffer overflow.
