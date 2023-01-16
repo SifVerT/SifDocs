@@ -1,27 +1,46 @@
-= Difficulty Tuner
+= Difficulty Tuner(TM)
+SifVerT <hgg0430@hotmail.com>
+v0.1, 2022-12-06
+:toc:
 
-=== Features
+== Features
 
-==== Control Workbench Behavior
+=== Recipe Production output and Ingredient
+
+Set how many items are needed as ingredients and/or the productivity per recipe.
+
+WARNING: Setting these values too high will prevent the machine from producing anything because the stack limit is less than the expected output.
+
+=== Fuel Energy Values
+
+Changing this affects how long the fuel will burn in a machine per fuel item i.e. 2.0 will make it burn for twice as long.
+
+=== Control Workbench Behavior
 
 Set the speed of the workbench or disable it entirely. In order to make a save game entirely workbench-free so-called xref:MachineParts.adoc[Machine Parts] got implemented which allows the player to make initial Constructors, Assemblers, and a Manufacturer, without having access to a Workbench; 6 Constructors, 2 Assemblers or 1 Manufacturer (or a combination that works).
 
-==== Phase 1 Tractor Unlock
+=== Factory Storage and Vehicle Inventory Size
+
+Straight-forward, tailor the inventory sizes of the vehicles to suit playstyle.
+
+WARNING: A huge inventory will cause UI lag when opening it.
+
+=== Phase 1 Tractor Unlock
 
 Instead of reaching Phase 2 the player can now unlock the milestone in Phase 1, something which might seem more balanced and also helps if the player uses Difficulty Tuner in order to make the game more challenging as a good wheeled logistics more or less becomes mandatory.
 
-==== Pre-unlocked Foundations and Logistics
+=== Pre-unlocked Foundations and Logistics
 
 Player starts with Base Building and Logistics milestones already unlocked.
 
-==== Slug Respawn
+=== Slug Respawn
 
 Random respawn for all slugs in the game world, they are no longer permanently gone when picked up but respawn on a timer between 7 to 30 in-game day after being picked up.
 
-==== Blade Runners recipe removal
+=== Blade Runners recipe removal
 
 The MAM research for Blade Runners is still there but it is no longer available at the Workshop.
 
-==== Machine Parts
+=== Machine Parts
 
 xref:MachineParts.adoc[Machine Parts]
