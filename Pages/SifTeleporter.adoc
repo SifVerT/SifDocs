@@ -1,7 +1,7 @@
 
-https://raw.githubusercontent.com/deantendo/community/master/com_mp_yes.png
+image::https://raw.githubusercontent.com/deantendo/community/master/com_mp_yes.png[]
 
-https://raw.githubusercontent.com/deantendo/community/master/ea_yes_exp_no.png
+image::https://raw.githubusercontent.com/deantendo/community/master/ea_yes_exp_no.png[]
 
 Adds a teleporter pad to the game and lets players move around the map instantly between different pads, after a short but energy-wise costly charge-up period.
 
@@ -11,12 +11,12 @@ Tip: Use Power Storages if you don't have a lot of surplus power. This is highly
 
 Works in multiplayer.
 
-If you have any feedback you can find me on Discord as <strong>SifVerT</strong>. I'm on <strong>my own support server:
+If you have any feedback you can find me on Discord as *SifVerT*. I'm on my own support server:
 
 
 https://discord.gg/Sdwpp7WAVD
 
-https://i.imgur.com/gjhaHhf.png
+image::https://i.imgur.com/gjhaHhf.png[]
 
 Totally voluntary, but if you appreciate my work you may leave a little tip.
 
