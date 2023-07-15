@@ -5,3 +5,9 @@ xref:Pages/BuildGunUtilities.adoc[Build Gun Utilities]
 xref:Pages/DifficultyTuner.adoc[Difficulty Tuner]
 
 xref:Pages/FactoryStatistics.adoc[Factory Statistics]
+
+xref:Pages/MoreGameOptions[More Game Options]
+
+xref:Pages/PoweredConveyorBelts.adoc[Powered Conveyor Belts]
+
+xref:Pages/SifTeleporter.adoc[SifTeleporter]
