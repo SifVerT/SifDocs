@@ -16,7 +16,7 @@ If you have any feedback you can find me on Discord as *SifVerT*. I'm on my own 
 
 https://discord.gg/Sdwpp7WAVD
 
-image::https://i.imgur.com/gjhaHhf.png[Discord,50,250]
+image::https://i.imgur.com/gjhaHhf.png[Discord,250,50]
 
 Totally voluntary, but if you appreciate my work you may leave a little tip.
 
