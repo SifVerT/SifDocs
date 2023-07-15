@@ -1,5 +1,5 @@
 
-image::https://raw.githubusercontent.com/deantendo/community/master/com_mp_yes.png[]
+image::https://raw.githubusercontent.com/deantendo/community/master/com_mp_yes.png[MP Compatibility]
 
 image::https://raw.githubusercontent.com/deantendo/community/master/ea_yes_exp_no.png[]
 
